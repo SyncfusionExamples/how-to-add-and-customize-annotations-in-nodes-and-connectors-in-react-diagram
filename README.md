@@ -2,8 +2,6 @@
 
 This repository is a small React sample that demonstrates how to add, customize, and programmatically manage annotations on nodes and connectors using the Syncfusion React Diagram component (`@syncfusion/ej2-react-diagrams`). The sample focuses on label/annotation usage: setting annotation content, styling, alignment and displacement, and adding annotations at runtime.
 
-This README explains what the sample shows, the important files to inspect, how the sample is implemented, and how to run or build the project locally.
-
 ## What this sample demonstrates
 
 - Adding annotations to nodes and connectors via the `annotations` property on node and connector models.
@@ -73,5 +71,3 @@ This will output optimized static files to the `build/` directory using Create R
 - Demo reference: https://ej2.syncfusion.com/react/demos/#/fluent2/diagram/getting-started-annotation
 
 ---
-
-This README was generated to reflect the actual `src` implementation in this repository (see `src/App.tsx`). If you change the node/connector definitions or add features, please update this README to keep instructions and examples accurate.
