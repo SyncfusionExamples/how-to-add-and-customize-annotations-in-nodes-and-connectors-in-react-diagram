@@ -1,6 +1,6 @@
 # how-to-add-and-customize-annotations-in-nodes-and-connectors-in-react-diagram
 
-This repository is a small React sample that demonstrates how to add, customize, and programmatically manage annotations on nodes and connectors using the Syncfusion React Diagram component (`@syncfusion/ej2-react-diagrams`). The sample focuses on label/annotation usage: setting annotation content, styling, alignment and displacement, and adding annotations at runtime.
+This repository is a small React sample that demonstrates how to add, customize, and programmatically manage annotations on nodes and connectors using the [React Diagram](https://www.syncfusion.com/react-components/react-diagram) component (`@syncfusion/ej2-react-diagrams`). The sample focuses on label/annotation usage: setting annotation content, styling, alignment and displacement, and adding annotations at runtime.
 
 ## Prerequisites
 
@@ -41,5 +41,5 @@ This will output optimized static files to the `build/` directory using Create R
 
 ## Resources
 
-- Syncfusion React Diagram documentation: https://ej2.syncfusion.com/react/documentation/diagram/labels
+- React Diagram documentation: https://ej2.syncfusion.com/react/documentation/diagram/labels
 - Demo reference: https://ej2.syncfusion.com/react/demos/#/fluent2/diagram/getting-started-annotation
